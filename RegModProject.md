@@ -1,11 +1,3 @@
-﻿---
-title: "Motor Trend Data Analysis Report"
-author: "by Josué Lavandeira"
-output: pdf_document:
-    fig_height: 7
-    fig_width: 7
----
-  
 ## Executive Summary  
 This report is meant to observe and analyze the data contained in the dataset `mtcars` and to explore the relationship between some of the cars' characteristics with their miles per gallon (MPG) performance. The `mtcars` dataset was obtained from the 1974 `Motor Trend` Magazine, and contains 11 factors that seemingly affect an automobile's performance for 32 cars. For this study we treat the cars' transmission type (am) as the main factor related to how much the MPG value is affected, we do this through exploratory data analyses and regression models. We also evaluate this transmission-MPG relationship when other performance factors affect this relationship. We show that there is actually a difference between cars that use an automatic or manual transmission and the MPG that these cars average.
 
