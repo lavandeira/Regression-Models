@@ -1,5 +1,5 @@
----
-title: "Regression Models Project - Motor Trend Data Analysis Report"
+﻿---
+title: "Motor Trend Data Analysis Report"
 author: "by Josué Lavandeira"
 output: pdf_document:
     fig_height: 7
